@@ -1,5 +1,5 @@
 //Variáveis do jogo
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 let numerosSorteados = [];
 let numeroAleatorio = gerarNumeroAleatorio();
 let tentativas = 1;
